@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char TABULEIRO[3][3];
+char TABULEIRO[3][3]; 
 
 //---------------------------------
 void IMPRIMIR_TABULEIRO()
