@@ -11,7 +11,7 @@ void IMPRIMIR_TABULEIRO()
   printf("=================\n");
   for (L = 0; L < 3; L++)
   {
-    for (C = 0; C < 3; C++)
+    for (C = 0; C < 3; C++) 
     {
       printf("%c\t", TABULEIRO[L][C]);
     }
