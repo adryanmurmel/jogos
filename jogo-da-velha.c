@@ -4,7 +4,7 @@
 char TABULEIRO[3][3];
 
 //---------------------------------
-void IMPRIMIR_TABULEIRO()
+void IMPRIMIR_TABULEIRO() 
 {
   int L, C;
   printf("\n   TABULEIRO\n");
